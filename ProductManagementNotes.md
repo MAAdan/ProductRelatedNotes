@@ -1,6 +1,6 @@
 # Product Management notes from different sources
 
-## About what is good Product Manager
+## About what is a good Product Manager
 * Product Manager means doing different things
 * Find ways to align motivate and inspire the team
 * Be proactive about seeking out ways to help and contribute
