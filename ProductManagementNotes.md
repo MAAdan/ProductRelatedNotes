@@ -28,6 +28,44 @@ Two types of mindset:
 
 ## About working with stakeholders
 "Managing up" is an expression used when working with senior stakeholders
+* A Product Manager can't succeed if there is no clarity among senior leaders about the company's strategy and vision.
+*  When a directive comes down from senior leaders you manage up for clarity. You explain those senior leaders why it doesn't make sense what trade-offs are at play and what the downstream implications of their demands might be.
+  
+ "When working with senior stakeholders" checklist:
+ * Don't set out to win. Empower them to make great decisions. 
+ * Push upward for clarity around company strategy and vision.
+ * Don't try to protect the team from sr. stakeholders by talking about how ignorant, arrogant they are. Instead, bring concerns directly to sr. stakeholders and walk them through making the trade-offs that will best serve your company goals.
+ * Never surprise senior stakeholders with a big idea in an important meeting.
+ * Don't let company politics drown out the needs of the users.
+ * Align business goals and users needs.
+ * Let stakeholders participate in making tactical trade-offs.
+ * Find out why something suddenly changes. There might have been an important high-level conversation that you are not aware of.
+
+## About talking to users
+* Always ask about specific instances not generalisations. Instead of: "What do you usually eat for lunch?" ask "Walk me through the last meal you ate".
+* Don't get too excited if you hear what you thought you wanted to hear.
+* Don't ask users to do your job for you.
+* Ask questions like (These are called leveling up questions):
+   * What was your shopping experience like? 
+   * Walk me through the whole shopping trip.
+* "Live in your users reality".
+* Remember that talking to users and working with stakeholders are different things and require different approaches.
+
+## About Data Driven Product Management
+* To open up a conversation about assumptions, build a formal template for every data driven decision that provides an opportunity to document goals, assumptions and questions. Such template can be something like:
+  * The decision I'm trying to make or the problem I'm trying to solve is:
+  * The data I'm using to make this decision is:
+  * Why I believe that this data will help me make this decision.
+  * What I believe this data is telling me.
+  * What assumptions are present in my interpretation of this data?
+  * How we might test those assumptions.
+  * The next step intending to take is:
+* Product managers can be held accountable for the following things:
+   * Knowing which metrics matter and why
+   * Having clear targets for these metrics?
+   * Knowing what's going on with the metrics right now.
+   * Identify the underlying issues that are causing this metrics to know what they are doing.
+   * Having a plan to address the underlying issues affecting these metrics.
 
 ## About Roadmaps and prioritisation
 * As a rule, the product roadmap should be something that encourages collaboration and focuses that collaboration are on high-level goals
