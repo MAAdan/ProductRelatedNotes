@@ -1,5 +1,34 @@
 # Product Management notes from different sources
 
+## About what is good Product Manager
+* Product Manager means doing different things
+* Find ways to align motivate and inspire the team
+* Be proactive about seeking out ways to help and contribute
+* Be a **connector** between teams and roles
+
+### Core skills of product management
+* Communication (between stakeholders and users)
+* Organisation (Of the product team for success in collaboration)
+* Research (New ideas and perspectives)
+* Execution (Of day to day tasks)
+
+## About attitude
+Be curious. Taking real interest in the work that people do have the effect of getting trust from people. "I'm curious about the work you do" is a powerful way to achieve this.
+
+Two types of mindset:
+* Fixed: Failures are seen as setbacks and negative work feedback
+* Growth: Failures and setbacks are seen as opportunities
+
+## About communication
+* Prefer overcommunication
+* Don't be afraid to ask the obvious
+* Avoid the temptation of being a meeting hater. Make sure that everybody's time is well spent
+* Use "Disagree and commit" to express opinion in meetings.
+* Avoid sentences with "It would be great if..." or "Do you think it might be possible to...". Ask direct questions.
+
+## About working with stakeholders
+"Managing up" is an expression used when working with senior stakeholders
+
 ## About Roadmaps and prioritisation
 * As a rule, the product roadmap should be something that encourages collaboration and focuses that collaboration are on high-level goals
 * The challenge for a Product Manager is not so much to have ideas but rather to establish criteria that can be used to consistently evaluate ideas against user needs and business goals
