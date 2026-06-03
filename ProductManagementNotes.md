@@ -89,4 +89,14 @@ There are different ways to bring rigor and structure to the organisational goal
 *  SMART goals (Specific, Measurable, Achievable, Relevant, Time-bounded)
 *  CLEAR goals (Collaborative, Limited, Emotional, Appreciable, Refinable)
 *  OKRs (Objective and Key Results)
+
 The way to review goals to prioritise is simple. Go trhough a backlog of potential product and potential feature ideas to see whether the goals would clearly indicate on what to work next. If there is one that would increase revenue and other that would potentially bring new users, which is more important? If there is a long-standing user complaint about an existing feature, how can its value be quantified compared to a new feature?
+
+A good way to handle last minute requests is to have a basic template to answer the following quetions:
+* What is the issue?
+* Who reported this issue?
+* How many users is it affecting?
+* Is there revenue directly tied to this issue?
+* If so, how much?
+* What would happen if this issue was not addressed in the next six months?
+* How is the contact person for further discussing/resolving this issue?
