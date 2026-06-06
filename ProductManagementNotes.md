@@ -6,6 +6,11 @@
 * Be proactive about seeking out ways to help and contribute
 * Be a **connector** between teams and roles
 
+Here are a few steps you can take to avoid falling on the double-edged sword of product heroism and martyrdom:
+* Make a list of the things outside your control
+* Look for opportunities to delegate important things
+* Protect the routines and rituals that bring your team together
+
 ### Core skills of product management
 * Communication (between stakeholders and users)
 * Organisation (Of the product team for success in collaboration)
@@ -13,7 +18,23 @@
 * Execution (Of day to day tasks)
 
 ## About attitude
-Be curious. Taking real interest in the work that people do have the effect of getting trust from people. "I'm curious about the work you do" is a powerful way to achieve this.
+* Be curious. Taking real interest in the work that people do have the effect of getting trust from people. "I'm curious about the work you do" is a powerful way to achieve this.
+* Be wary of your organization and team falling into autopilot. Actively bring
+new ideas and challenging perspectives to your team at all times.
+* Use time-boxed prototypes to explore alternate product directions, even
+when there is no immediate or obvious pressure to change course.
+* Remember that a good product organization is not one free of conflict, but
+rather one in which conflict is handled openly and without personal
+attacks.
+* Try to bring the energy and enthusiasm from your best and most exciting
+moments as a product manager to every day of your work.
+* If you begin to feel like you are the only person keeping your team or your
+organization from falling apart, take a step back. Make a list of the things
+you can’t control, delegate impactful work to your colleagues, and make
+sure you are protecting your team's most valued routines and rituals.
+* Understand that the connectedness of your role carries great responsibil-
+ity, but also great opportunity. Do everything in your power to protect and
+embody the very best things about your team and your organization.
 
 Two types of mindset:
 * Fixed: Failures are seen as setbacks and negative work feedback
@@ -85,6 +106,7 @@ One of the main Lean Startup's core concepts is build -> measure -> learn, teh p
 *  Leveling up the conversation from technical details to higher level goals will give everybody more room to find the best possible solution when the product or feature is actually being built.
 * Prioritisation is where organisational goals and vision turn into actual decisions about timing and resource allocation.
 *  The use of a Impact-Versus-Effort Matrix helps with the prioritisation process. See: ![Impact-vs-effort-matrix](Impact-vs-effort-matrix.png)
+
 There are different ways to bring rigor and structure to the organisational goals:
 *  SMART goals (Specific, Measurable, Achievable, Relevant, Time-bounded)
 *  CLEAR goals (Collaborative, Limited, Emotional, Appreciable, Refinable)
@@ -100,3 +122,10 @@ A good way to handle last minute requests is to have a basic template to answer 
 * If so, how much?
 * What would happen if this issue was not addressed in the next six months?
 * How is the contact person for further discussing/resolving this issue?
+
+## About Agile
+According to Alistair Cockburn the entirety of Agile practices and processes can be defined by four actions at the ["Heart of agile"](https://heartofagile.com/rediscovering-the-heart-of-agile-2/):
+* Collaborate
+* Deliver
+* Reflect
+* Improve
